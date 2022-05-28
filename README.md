@@ -6,14 +6,16 @@ The shell is the layer of programming that understands and executes the commands
 
 ---
 ## PROGRAMS
-[10NatNums](https://github.com/004Ajay/OperatingSystem/blob/main/10NatNums.sh) 
+[First 10 Natural Numbers](https://github.com/004Ajay/OperatingSystem/blob/main/10NatNums.sh) 
 
-[BasicDetails](https://github.com/004Ajay/OperatingSystem/blob/main/BasicDetails.sh) 
+[Basic Details](https://github.com/004Ajay/OperatingSystem/blob/main/BasicDetails.sh) 
 
-[BiggestOfTwoNums](https://github.com/004Ajay/OperatingSystem/blob/main/BiggestOfTwoNums.sh) 
+[Biggest Of Two Numbers](https://github.com/004Ajay/OperatingSystem/blob/main/BiggestOfTwoNums.sh)
+
+[Calculator](https://github.com/004Ajay/OperatingSystem/blob/main/calculator.sh) 
 
 [Factorial](https://github.com/004Ajay/OperatingSystem/blob/main/Factorial.sh) 
 
 [Fibonacci](https://github.com/004Ajay/OperatingSystem/blob/main/Fibonacci.sh) 
 
-[SumOfTwoNums](https://github.com/004Ajay/OperatingSystem/blob/main/SumOfTwoNums.sh) 
+[Sum Of Two Numbers](https://github.com/004Ajay/OperatingSystem/blob/main/SumOfTwoNums.sh) 
