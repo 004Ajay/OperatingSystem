@@ -5,7 +5,13 @@
 The shell is the layer of programming that understands and executes the commands a user enters
 
 ---
-## PROGRAMS
+## OS PROGRAMS
+[fork() exec() getpid() exit()](https://github.com/004Ajay/OperatingSystem/blob/main/SysCallForkExec.c) 
+
+[System Call: stat()](https://github.com/004Ajay/OperatingSystem/blob/main/SysCallStat.c)
+
+---
+## SHELL PROGRAMS
 [First 10 Natural Numbers](https://github.com/004Ajay/OperatingSystem/blob/main/10NatNums.sh) 
 
 [Basic Details](https://github.com/004Ajay/OperatingSystem/blob/main/BasicDetails.sh) 
@@ -19,3 +25,5 @@ The shell is the layer of programming that understands and executes the commands
 [Fibonacci](https://github.com/004Ajay/OperatingSystem/blob/main/Fibonacci.sh) 
 
 [Sum Of Two Numbers](https://github.com/004Ajay/OperatingSystem/blob/main/SumOfTwoNums.sh) 
+
+---
