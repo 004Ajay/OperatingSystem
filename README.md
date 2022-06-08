@@ -8,11 +8,11 @@ The shell is the layer of programming that understands and executes the commands
 
 ---
 ## OS PROGRAMS
-[System Call: fork() exec() getpid() exit()](https://github.com/004Ajay/OperatingSystem/blob/main/SysCallForkExec.c) 
+[System Call 1: fork() exec() getpid() exit()](https://github.com/004Ajay/OperatingSystem/blob/main/SysCallForkExec.c) 
 
-[System Call: stat()](https://github.com/004Ajay/OperatingSystem/blob/main/SysCallStat.c)
+[System Call 2: stat()](https://github.com/004Ajay/OperatingSystem/blob/main/SysCallStat.c)
 
-[System Call: dir()](https://github.com/004Ajay/OperatingSystem/blob/main/SysCallDir.c)
+[System Call 3: dir()](https://github.com/004Ajay/OperatingSystem/blob/main/SysCallDir.c)
 
 ---
 ## SHELL PROGRAMS
