@@ -12,6 +12,8 @@ The shell is the layer of programming that understands and executes the commands
 
 [System Call: stat()](https://github.com/004Ajay/OperatingSystem/blob/main/SysCallStat.c)
 
+[System Call: dir()](https://github.com/004Ajay/OperatingSystem/blob/main/SysCallDir.c)
+
 ---
 ## SHELL PROGRAMS
 [First 10 Natural Numbers](https://github.com/004Ajay/OperatingSystem/blob/main/10NatNums.sh) 
