@@ -8,11 +8,24 @@ The shell is the layer of programming that understands and executes the commands
 
 ---
 ## OS PROGRAMS
-[System Call 1: fork() exec() getpid() exit()](https://github.com/004Ajay/OperatingSystem/blob/main/SysCallForkExec.c) 
 
-[System Call 2: stat()](https://github.com/004Ajay/OperatingSystem/blob/main/SysCallStat.c)
+#### CPU Scheduling Programs
 
-[System Call 3: opendir() closedir()](https://github.com/004Ajay/OperatingSystem/blob/main/SysCallDir.c)
+* [First Come First Served Scheduling (FCFS)](https://github.com/004Ajay/OperatingSystem/blob/main/FCFS_Sch.c)
+
+* [Priority Scheduling](https://github.com/004Ajay/OperatingSystem/blob/main/Priority_Sch.c)
+
+* [Round Robin Scheduling](https://github.com/004Ajay/OperatingSystem/blob/main/RoundRobin_Sch.c)
+
+* [Short Job First Scheduling (SJF))](https://github.com/004Ajay/OperatingSystem/blob/main/SJF_Sch.c)
+
+#### System Call Programs
+
+* [System Call 1: fork() exec() getpid() exit()](https://github.com/004Ajay/OperatingSystem/blob/main/SysCallForkExec.c) 
+
+* [System Call 2: stat()](https://github.com/004Ajay/OperatingSystem/blob/main/SysCallStat.c)
+
+* [System Call 3: opendir() closedir()](https://github.com/004Ajay/OperatingSystem/blob/main/SysCallDir.c)
 
 ---
 ## SHELL PROGRAMS
