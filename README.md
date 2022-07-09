@@ -9,6 +9,12 @@ The shell is the layer of programming that understands and executes the commands
 ---
 ## OS PROGRAMS
 
+* [Banker's Algorithm](https://github.com/004Ajay/OperatingSystem/blob/main/bankersAlgorithm.c)
+
+* [Inter Process Communication using Shared Memory](https://github.com/004Ajay/OperatingSystem/blob/main/ipc.c)
+
+* [Semaphores](https://github.com/004Ajay/OperatingSystem/blob/main/semaphores.c)
+
 #### CPU Scheduling Programs
 
 * [First Come First Served Scheduling (FCFS)](https://github.com/004Ajay/OperatingSystem/blob/main/FCFS_Sch.c)
@@ -28,6 +34,7 @@ The shell is the layer of programming that understands and executes the commands
 * [System Call 3: opendir() closedir()](https://github.com/004Ajay/OperatingSystem/blob/main/SysCallDir.c)
 
 ---
+
 ## SHELL PROGRAMS
 [First 10 Natural Numbers](https://github.com/004Ajay/OperatingSystem/blob/main/10NatNums.sh) 
 
