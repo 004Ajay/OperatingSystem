@@ -25,6 +25,14 @@ The shell is the layer of programming that understands and executes the commands
 
 * [Short Job First Scheduling (SJF))](https://github.com/004Ajay/OperatingSystem/blob/main/SJF_Sch.c)
 
+#### Memory Allocation Methods
+
+* [Best Fit](https://github.com/004Ajay/OperatingSystem/blob/main/best.c)
+
+* [First Fit](https://github.com/004Ajay/OperatingSystem/blob/main/first.c)
+
+* [Worst Fit](https://github.com/004Ajay/OperatingSystem/blob/main/worst.c)
+
 #### System Call Programs
 
 * [System Call 1: fork() exec() getpid() exit()](https://github.com/004Ajay/OperatingSystem/blob/main/SysCallForkExec.c) 
