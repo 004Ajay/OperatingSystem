@@ -3,6 +3,7 @@
 
 void main(){
 int b[max], f[max], bf[max],ff[max], i, j, nb, nf, temp, highest=0;
+printf("\nMemory Management Scheme - Worst Fit\n");
 printf("\nEnter number of blocks: ");
 scanf("%d",&nb);
 printf("Enter size of blocks:\n");
