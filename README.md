@@ -7,7 +7,7 @@ An operating system (OS) is system software that manages computer hardware, soft
 The shell is the layer of programming that understands and executes the commands a user enters
 
 ---
-## OS PROGRAMS
+## Operating System Programs
 
 * [Banker's Algorithm](https://github.com/004Ajay/OperatingSystem/blob/main/bankersAlgorithm.c)
 
