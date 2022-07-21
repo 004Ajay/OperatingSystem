@@ -1,5 +1,5 @@
 /*
-For FCFS (example)
+Sample I/O for 'First Come First Served Disk Scheduling (FCFS)'
 Number of request: 8
 Request Order: 98 183 37 122 14 124 65 67
 Head Position: 53
