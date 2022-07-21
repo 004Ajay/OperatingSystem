@@ -36,6 +36,8 @@ The shell is the layer of programming that understands and executes the commands
 
 * [SCAN](https://github.com/004Ajay/OperatingSystem/blob/main/scan.c)
 
+* [SSTF](https://github.com/004Ajay/OperatingSystem/blob/main/sstf.c)
+
 
 #### Memory Allocation Programs
 
