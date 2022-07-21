@@ -1,3 +1,10 @@
+/*
+Sample inputs for 'First In First Out (FIFO)'
+Number of pages: 20
+Number of frames: 3
+Ref string: 7 0 1 2 0 3 0 4 2 3 0 3 2 1 2 0 1 7 0 1
+*/
+
 #include<stdio.h>
 int main(){
 int ref_str[50], frame[10], pg_no, fr_no, avail, i, j, k, count=0;
