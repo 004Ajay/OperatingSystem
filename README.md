@@ -12,14 +12,14 @@ The shell is the layer of programming that understands and executes the commands
 
 * [Banker's Algorithm](https://github.com/004Ajay/OperatingSystem/blob/main/bankersAlgorithm.c)
 
-* [Inter Process Communication using Shared Memory](https://github.com/004Ajay/OperatingSystem/blob/main/ipc.c)
+* [Inter Process Communication using Shared Memory (IPC)](https://github.com/004Ajay/OperatingSystem/blob/main/ipc.c)
 
 * [Semaphores](https://github.com/004Ajay/OperatingSystem/blob/main/semaphores.c)
 
 
 #### CPU Scheduling Programs
 
-* [First Come First Served Scheduling (FCFS)](https://github.com/004Ajay/OperatingSystem/blob/main/FCFS_Sch.c)
+* [First Come First Served CPU Scheduling (FCFS)](https://github.com/004Ajay/OperatingSystem/blob/main/FCFS_Sch.c)
 
 * [Priority Scheduling](https://github.com/004Ajay/OperatingSystem/blob/main/Priority_Sch.c)
 
@@ -30,13 +30,13 @@ The shell is the layer of programming that understands and executes the commands
 
 #### Disk Scheduling Programs
 
-* [C-SCAN](https://github.com/004Ajay/OperatingSystem/blob/main/cscan.c)
+* [Circular SCAN (C-SCAN)](https://github.com/004Ajay/OperatingSystem/blob/main/cscan.c)
 
-* [FCFS](https://github.com/004Ajay/OperatingSystem/blob/main/fcfs.c)
+* [First Come First Served Disk Scheduling (FCFS)](https://github.com/004Ajay/OperatingSystem/blob/main/fcfs.c)
 
-* [SCAN](https://github.com/004Ajay/OperatingSystem/blob/main/scan.c)
+* [SCAN (Elevator Algorithm)](https://github.com/004Ajay/OperatingSystem/blob/main/scan.c)
 
-* [SSTF](https://github.com/004Ajay/OperatingSystem/blob/main/sstf.c)
+* [Shortest Seek Time First (SSTF)](https://github.com/004Ajay/OperatingSystem/blob/main/sstf.c)
 
 
 #### Memory Allocation Programs
@@ -50,9 +50,9 @@ The shell is the layer of programming that understands and executes the commands
 
 #### Page Replacement Programs
 
-* [FIFO](https://github.com/004Ajay/OperatingSystem/blob/main/fifo.c)
+* [First In First Out (FIFO)](https://github.com/004Ajay/OperatingSystem/blob/main/fifo.c)
 
-* [LRU](https://github.com/004Ajay/OperatingSystem/blob/main/lru.c)
+* [Least Recently Used (LRU)](https://github.com/004Ajay/OperatingSystem/blob/main/lru.c)
 
 
 #### System Call Programs
