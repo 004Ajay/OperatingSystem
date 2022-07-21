@@ -1,4 +1,12 @@
+/*
+Sample inputs for 'Least Recently Used (LRU)'
+Number of pages: 20
+Number of frames: 3
+Ref string: 7 0 1 2 0 3 0 4 2 3 0 3 2 1 2 0 1 7 0 1
+*/
+
 #include<stdio.h>
+
 int main(){
 int i, m, n, pos, k, l, frms[10], tot_frms, pgs[50], tot_pgs, a = 0, b = 0, count = 0;
 printf("\nEnter number of Pages: ");
