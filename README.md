@@ -7,6 +7,7 @@ An operating system (OS) is system software that manages computer hardware, soft
 The shell is the layer of programming that understands and executes the commands a user enters
 
 ---
+
 ## Operating System Programs
 
 * [Banker's Algorithm](https://github.com/004Ajay/OperatingSystem/blob/main/bankersAlgorithm.c)
@@ -14,6 +15,7 @@ The shell is the layer of programming that understands and executes the commands
 * [Inter Process Communication using Shared Memory](https://github.com/004Ajay/OperatingSystem/blob/main/ipc.c)
 
 * [Semaphores](https://github.com/004Ajay/OperatingSystem/blob/main/semaphores.c)
+
 
 #### CPU Scheduling Programs
 
@@ -25,13 +27,31 @@ The shell is the layer of programming that understands and executes the commands
 
 * [Short Job First Scheduling (SJF))](https://github.com/004Ajay/OperatingSystem/blob/main/SJF_Sch.c)
 
-#### Memory Allocation Methods
+
+#### Disk Scheduling Programs
+
+* [C-SCAN](https://github.com/004Ajay/OperatingSystem/blob/main/cscan.c)
+
+* [FCFS](https://github.com/004Ajay/OperatingSystem/blob/main/fcfs.c)
+
+* [SCAN](https://github.com/004Ajay/OperatingSystem/blob/main/scan.c)
+
+
+#### Memory Allocation Programs
 
 * [Best Fit](https://github.com/004Ajay/OperatingSystem/blob/main/best.c)
 
 * [First Fit](https://github.com/004Ajay/OperatingSystem/blob/main/first.c)
 
 * [Worst Fit](https://github.com/004Ajay/OperatingSystem/blob/main/worst.c)
+
+
+#### Page Replacement Programs
+
+* [FIFO](https://github.com/004Ajay/OperatingSystem/blob/main/fifo.c)
+
+* [LRU](https://github.com/004Ajay/OperatingSystem/blob/main/lru.c)
+
 
 #### System Call Programs
 
@@ -59,5 +79,3 @@ The shell is the layer of programming that understands and executes the commands
 [Sum Of Two Numbers](https://github.com/004Ajay/OperatingSystem/blob/main/SumOfTwoNums.sh) 
 
 ---
-
-[UNLISTED | xx DELETE AFTER USE xx |](https://github.com/004Ajay/OperatingSystem/tree/main/%23%20page%20%26%20disk)
