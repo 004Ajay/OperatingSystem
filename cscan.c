@@ -1,5 +1,5 @@
 /*
-For SCAN (example)
+Sample I/O for 'Circular SCAN (C-SCAN)'
 Number of request: 9
 Request Order: 86 1470 913 1774 948 1509 1022 1750 130
 Head Position: 143
