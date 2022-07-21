@@ -1,10 +1,10 @@
 /*
 For SCAN (example)
-Number of request: 9
-Request Order: 86 1470 913 1774 948 1509 1022 1750 130
-Head Position: 143
-Total disk size: 4999
-Required Disance: 9769 (as per classwork)
+Number of request: 8
+Request Order: 98 183 37 122 14 124 65 67
+Head Position: 53
+Total disk size: 199
+Required Disance: 331 (as per lab question)
 */
 
 #include<stdio.h>
