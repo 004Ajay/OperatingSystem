@@ -8,6 +8,7 @@ Required Disance: 9769 (as per classwork)
 */
 
 #include<stdio.h>
+#include<stdlib.h>
 
 int main(){
     int reqArr[50], n, head, i, pos, dsk_sz, res=0, j, len, temp;
