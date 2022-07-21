@@ -7,6 +7,7 @@ Required Disance: 640 (as per classwork)
 */
 
 #include<stdio.h>
+#include<stdlib.h>
 
 int main(){
     int i, req_num, req[50], mov=0, head;
