@@ -25,7 +25,7 @@ The shell is the layer of programming that understands and executes the commands
 
 * [Round Robin Scheduling](https://github.com/004Ajay/OperatingSystem/blob/main/RoundRobin_Sch.c)
 
-* [Short Job First Scheduling (SJF))](https://github.com/004Ajay/OperatingSystem/blob/main/SJF_Sch.c)
+* [Short Job First Scheduling (SJF)](https://github.com/004Ajay/OperatingSystem/blob/main/SJF_Sch.c)
 
 
 #### Disk Scheduling Programs
@@ -65,7 +65,7 @@ The shell is the layer of programming that understands and executes the commands
 
 ---
 
-## SHELL PROGRAMS
+## Shell Programs 
 [First 10 Natural Numbers](https://github.com/004Ajay/OperatingSystem/blob/main/10NatNums.sh) 
 
 [Basic Details](https://github.com/004Ajay/OperatingSystem/blob/main/BasicDetails.sh) 
