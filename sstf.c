@@ -1,5 +1,5 @@
 /*
-For SCAN (example)
+Sample I/O for 'Short Job First Scheduling (SSTF)'
 Number of request: 9
 Request Order: 86 1470 913 1774 948 1509 1022 1750 130
 Head Position: 143
@@ -30,7 +30,9 @@ int main(){
         }
     }
     /*
+    // include if index of head postion needed
     // position of the disk to start seeking 
+    
     for(i=0;i<n;i++) {                                      
         if(reqArr[i] == start) {
             pos = i;
